@@ -1,16 +1,14 @@
 ### Hi there 👋
+Welcome to my profile! My name is Taisiia Nekrasova, a passionate Software Engineering student with a strong foundation in Computer Science and with inspiration to develop innovative solutions. I am currently pursuing my BEng(Hons) Computer Science degree at Anglia Ruskin University in Cambridge. Through my projects that I created, I have gained experience in areas such as:
 
-<!--
-**justtaaa/justtaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend: Java, C/C++, C# and Python Databases: MySQL Others: GitHub, Git
 
-Here are some ideas to get you started:
+As an aspiring Software Engineer, I am looking for an internship that will help me practice my skills and learn something new in the IT field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I would be very happy to connect and collaborate with you!
+
+Languages and Tools:
+
+c java python html5 css3 mysql git windows linux macOS Connect with me:
+
+Statistics:
