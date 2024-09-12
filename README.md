@@ -1,14 +1,9 @@
-<h1 align="center">Welcome to my profile!</h1>
-
----
-My name is Taisiia Nekrasova, a passionate Software Engineering student with a strong foundation in Computer Science and with inspiration to develop innovative solutions. I am currently doing my year in industry in ARM LTD. Through my projects that I created, I have gained experience in areas such as:
+My name is Taya, a passionate Software Engineering student. I am currently doing my year in industry in ARM LTD. 
 
 Backend: Java, C/C++, C#, Python <br>
 Frontend: HTML, CSS <br>
-Databases: MySQL <br>
-Others: GitHub, Git <br>
 
-I would be very happy to connect and collaborate with you!
+Currently intrested in ML!
 
 ### Languages and Tools:
 
