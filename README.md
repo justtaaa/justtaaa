@@ -47,4 +47,16 @@ Currently intrested in ML!
 
 ### Statistics:
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justtaaa&theme=github_dark" />
+<details open>
+<p align="center">
+  <a href="https://github.com/justtaaa">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justtaaa&theme=transparent" />
+  </a>
+  <a href="https://github.com/justtaaa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justtaaa&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/justtaaa">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=justtaaa&theme=transparent" />
+  </a>
+</p>
+</details>
