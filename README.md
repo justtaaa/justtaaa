@@ -1,9 +1,9 @@
-My name is Taya, a passionate Software Engineering student. I am currently doing my year in industry in ARM LTD. 
+My name is Taya, a Computer Science student with interest in technologies. I am currently doing my year in industry in ARM LTD. 
 
 Backend: Java, C/C++, C#, Python <br>
 Frontend: HTML, CSS <br>
 
-Currently intrested in ML!
+Currently intrested in Embedded systems, Machine learning and work-life balance!
 
 ### Languages and Tools:
 
