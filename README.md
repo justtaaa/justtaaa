@@ -16,13 +16,6 @@ Currently, I'm deeply interested in **Embedded Systems**, **Machine Learning**, 
 
 ### 💻 Tech Stack & Tools
 
-**Backend:**
-* Java, C/C++, Python
-
-**Frontend:**
-* HTML, CSS
-
-#### Languages and Tools:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
